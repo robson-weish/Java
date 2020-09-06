@@ -19,7 +19,7 @@ public class Main_05 {
 		System.out.print("Digite o preço: ");
 		up1 = sc.nextDouble();
 		
-		System.out.print("Digite o codigo: ");
+		System.out.print("Digite segundo codigo: ");
 		cd2 = sc.nextInt();
 		System.out.print("Digite a quantidade de peça: ");
 		pc2 = sc.nextInt();
