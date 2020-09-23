@@ -14,3 +14,8 @@ ex-3/.settings/org.eclipse.jdt.core.prefs
 ex-4/.settings/org.eclipse.jdt.core.prefs
 ex-4/.project
 ex-4/.classpath
+ex-5/.classpath
+ex-5/.project
+*.prefs
+ex-6/.classpath
+ex-6/.project
